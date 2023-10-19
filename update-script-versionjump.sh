@@ -1,4 +1,3 @@
-pnpm i
 pnpm update --latest
 pnpm i -D typescript@5.1
 # Error 1
